@@ -6,7 +6,7 @@
 * Ruby Instalado.
 * Driver do navegador no qual o teste irá rodar.
 
-## 1. Como instalar as demais dependências:
+## 2. Como instalar as demais dependências:
 
 > Instalar o Cucumber:
 
@@ -20,7 +20,7 @@ gem install cucumber
 gem install selenium-webdriver
 ```
 
-## 2. Executar o Projeto:
+## 3. Executar o Projeto Exemplo:
 
 > Rodar os testes implementados usando o CMD ou Terminal
 
@@ -31,7 +31,7 @@ cucumber
 
 > Feito isto basta verificar a saída e os resultados
 
-## 3. Criar um caso de teste:
+## 4. Criar um caso de teste:
 
 > Criar o projeto de teste
 
